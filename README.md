@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file that combines the functionalities of image to PDF conversion, PDF merging, and image compression in one application:
-
 # Pdf4Now Image and PDF Toolkit
 
 Pdf4Now Image and PDF Toolkit is a web application that provides a suite of tools for manipulating images and PDF files. With this toolkit, users can convert images to PDF, merge multiple PDF files into a single document, and compress images to optimize file size.
